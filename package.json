@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aimee MacDonald",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aimee-MacDonald/satisfying-tailor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aimee-MacDonald/satisfying-tailor/issues"
+  },
+  "homepage": "https://github.com/Aimee-MacDonald/satisfying-tailor#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
